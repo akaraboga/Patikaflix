@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\bin\Debug\Patikaflixş.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\bin\Debug\Patikaflixş.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\bin\Debug\Patikaflixş.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\obj\Debug\Patikaflixş.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\obj\Debug\Patikaflixş.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\obj\Debug\Patikaflixş.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Patikaflixş\Patikaflixş\obj\Debug\Patikaflixş.pdb
